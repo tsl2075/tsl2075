@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
+## _The Last Markdown Editor, Ever_
 
-<!--
-**tsl2075/tsl2075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 안양대학교 전기전자공학과 졸업(2015.03 ~ 2021.02)
+- 전기기사 외 경력 3년 6개월 -> 진로변경
+- [intel] 엣지 AI SW 아카데미 (2025.02 ~ 2025.08)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🔭Teck Stack
+ Language
+ <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> -
+ 
+ Boards
+ <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+ 
+ Communication
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+ 
+ Others
+ <img src="https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=QT&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+ 
+ 
